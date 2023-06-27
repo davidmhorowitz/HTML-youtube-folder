@@ -1,0 +1,24 @@
+College,City,Salary,City's Gross Rent,Name
+Merritt College,Oakland,,"$1,676",Peralta
+College of Alameda,Alameda,,"$2,106",Peralta
+Los Medanos College - Campus,Pittsburg,,"$1,983",Contra Costa
+Los Medanos College - Center,Brentwood,,"$2,248",Contra Costa
+Diablo Valley College - Larger Campus,San Ramon,,"$2,557",Contra Costa
+Diablo Valley College - Smaller Campus,Pleasant Hill,,"$2,245",Contra Costa
+Las Positas College,Livermore,,"$2,313",Chabot-Las Positas
+Chabot College,Hayward,,"$2,071",Chabot-Las Positas
+Ohlone College - Campus,Fremont,,"$2,591",Ohlone
+Ohlone College - Center,Newark,,"$2,425",Ohlone
+Contra Costa College,San Pablo,,"$1,684",Contra Costa
+Laney,Oakland,,"$1,676",Peralta
+Berkeley,Berkeley,,"$1,886",Peralta
+,,,,
+,,,,
+,,,,
+CCCCD = Los Medanos + Diablo Valley + Contra Costa,,,,
+"Peralta Community College District = Berkeley, Laney, Merritt, College of Alameda",,,,
+Chabot-Las Positas = Chabot + Las Positas,,,,
+Ohlone,,,,
+"slope chart = 2 diff types of numbers. eg Salary and rent: matploblib, flourish",,,,
+14-bar chart,,,,
+map,,,,
